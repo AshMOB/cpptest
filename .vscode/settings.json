@@ -2,6 +2,12 @@
     "files.associations": {
         "*.html": "html",
         "stdio.h": "c",
-        "signal.h": "c"
+        "signal.h": "c",
+        "pthread.h": "c",
+        "array": "c",
+        "any": "c",
+        "string_view": "c",
+        "regex": "c",
+        "type_traits": "c"
     }
 }
