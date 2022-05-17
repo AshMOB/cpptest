@@ -8,6 +8,7 @@
         "any": "c",
         "string_view": "c",
         "regex": "c",
-        "type_traits": "c"
+        "type_traits": "c",
+        "sstream": "c"
     }
 }
